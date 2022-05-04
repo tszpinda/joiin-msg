@@ -1,18 +1,18 @@
 [
   {
-    "active": true,
+    "active": false,
     "type": "login",
     "env": "tszpinda",
     "msg": "We're sorry our systems are being affected by internet wide outage. You may experience various problems using Joiin today."
   },
   {
-    "active": true,
+    "active": false,
     "type": "in-app",
     "env": "tszpinda",
     "msg": "We're sorry our systems are being affected by internet wide outage. You may experience various problems using Joiin today."
   },
   {
-    "active": true,
+    "active": false,
     "type": "signup",
     "env": "tszpinda",
     "msg": "We're sorry our systems are being affected by internet wide outage which may negatively impact your sign up experience. You may experience various problems using Joiin today."
