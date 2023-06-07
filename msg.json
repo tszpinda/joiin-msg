@@ -2,11 +2,11 @@
   {
     "active": true,
     "type": "login",
-    "env": "dev",
-    "msg": "If you using 'Login with Xero' you may experince problems as detailed on https://status.xero.com/"
+    "env": "app",
+    "msg": "Xero is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://status.xero.com for details."
   },
   {
-    "active": true,
+    "active": false,
     "type": "in-app",
     "env": "dev",
     "msg": "We're sorry our sync with Xero is being affected by Xero platform problems as detailed on on https://status.xero.com/"
@@ -14,8 +14,8 @@
   {
     "active": true,
     "type": "signup",
-    "env": "dev",
-    "msg": "Sign up with Xero may be affected by Xero outage as as detailed on https://status.xero.com/"
+    "env": "app",
+    "msg": "Xero is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://status.xero.com for details."
   }
 
 ]
