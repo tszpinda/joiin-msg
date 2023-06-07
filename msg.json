@@ -1,8 +1,8 @@
 [
   {
-    "active": true,
+    "active": false,
     "type": "login",
-    "env": "app",
+    "env": "dev",
     "msg": "Xero is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://status.xero.com for details."
   },
   {
@@ -12,9 +12,9 @@
     "msg": "We're sorry our sync with Xero is being affected by Xero platform problems as detailed on on https://status.xero.com/"
   },
   {
-    "active": true,
+    "active": false,
     "type": "signup",
-    "env": "app",
+    "env": "dev",
     "msg": "Xero is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://status.xero.com for details."
   }
 
