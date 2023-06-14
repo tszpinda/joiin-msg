@@ -7,12 +7,6 @@
   },
   {
     "active": false,
-    "type": "in-app",
-    "env": "dev",
-    "msg": "We're sorry our sync with Xero is being affected by Xero platform problems as detailed on on https://status.xero.com/"
-  },
-  {
-    "active": false,
     "type": "signup",
     "env": "app",
     "msg": "Our hosting provider Amazon AWS is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://health.aws.amazon.com/health/status for details."
