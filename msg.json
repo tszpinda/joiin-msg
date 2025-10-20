@@ -1,12 +1,12 @@
 [
   {
-    "active": false,
+    "active": true,
     "type": "login",
     "env": "app",
     "msg": "Our hosting provider Amazon AWS is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://health.aws.amazon.com/health/status for details."
   },
   {
-    "active": false,
+    "active": true,
     "type": "signup",
     "env": "app",
     "msg": "Our hosting provider Amazon AWS is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://health.aws.amazon.com/health/status for details."
