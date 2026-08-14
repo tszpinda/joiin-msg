@@ -1,21 +1,15 @@
 [
-{
-    "active": true,
-    "type": "login",
-    "env": "app",
-    "msg": "We're having trouble connecting to Xero.
-  This is a temporary problem on Xero's side, not an
-  issue with your account. It can take a few hours to
-  clear - please try again later."
-  },
-  {
-    "active": true,
-    "type": "signup",
-    "env": "app",
-    "msg": "We're having trouble connecting to Xero.
-  This is a temporary problem on Xero's side, not an
-  issue with your account. It can take a few hours to
-  clear - please try again later."
-  }
+{ 
+"active": true, 
+"type": "login", 
+"env": "app", 
+"msg": "We're having trouble connecting to Xero. This is a temporary problem on Xero's side, not an issue with your account. It can take a few hours to clear - please try again later." 
+}, 
+{ 
+"active": true, 
+"type": "signup", 
+"env": "app", 
+"msg": "We're having trouble connecting to Xero. This is a temporary problem on Xero's side, not an issue with your account. It can take a few hours to clear - please try again later." 
+}
 ]
 
