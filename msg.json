@@ -1,12 +1,12 @@
 [
 { 
-"active": true, 
+"active": false, 
 "type": "login", 
 "env": "app", 
 "msg": "We're aware of an issue affecting Log in with Xero and Sign up with Xero. Some attempts may fail or return an error. If you have a Joiin password set, please log in with your email address instead." 
 }, 
 { 
-"active": true, 
+"active": false, 
 "type": "signup", 
 "env": "app", 
 "msg": "We're aware of an issue affecting Log in with Xero and Sign up with Xero. Some attempts may fail or return an error. If you have a Joiin password set, please log in with your email address instead." 
