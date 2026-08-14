@@ -3,13 +3,13 @@
 "active": true, 
 "type": "login", 
 "env": "app", 
-"msg": "We're having trouble connecting to Xero. This is a temporary problem on Xero's side, not an issue with your account. It can take a few hours to clear - please try again later." 
+"msg": "We're aware of an issue affecting Log in with Xero and Sign up with Xero. Some attempts may fail or return an error. If you have a Joiin password set, please log in with your email address instead." 
 }, 
 { 
 "active": true, 
 "type": "signup", 
 "env": "app", 
-"msg": "We're having trouble connecting to Xero. This is a temporary problem on Xero's side, not an issue with your account. It can take a few hours to clear - please try again later." 
+"msg": "We're aware of an issue affecting Log in with Xero and Sign up with Xero. Some attempts may fail or return an error. If you have a Joiin password set, please log in with your email address instead." 
 }
 ]
 
