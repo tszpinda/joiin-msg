@@ -1,16 +1,21 @@
 [
-  {
-    "active": false,
+{
+    "active": true,
     "type": "login",
     "env": "app",
-    "msg": "Our hosting provider Amazon AWS is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://health.aws.amazon.com/health/status for details."
+    "msg": "We're having trouble connecting to Xero.
+  This is a temporary problem on Xero's side, not an
+  issue with your account. It can take a few hours to
+  clear - please try again later."
   },
   {
-    "active": false,
+    "active": true,
     "type": "signup",
     "env": "app",
-    "msg": "Our hosting provider Amazon AWS is currently undergoing a significant outage. As a result, some of our services may be impacted. Please see https://health.aws.amazon.com/health/status for details."
+    "msg": "We're having trouble connecting to Xero.
+  This is a temporary problem on Xero's side, not an
+  issue with your account. It can take a few hours to
+  clear - please try again later."
   }
-
 ]
 
